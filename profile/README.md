@@ -11,9 +11,10 @@
 
 <a href="https://youtu.be/yjHWuMHYMto">🎬 데모 영상</a>
 &nbsp; | &nbsp;
-<a href="https://github.com/Chosun-univ-changup/changup-backend">Backend</a>
-&nbsp; | &nbsp;
 <a href="https://github.com/Chosun-univ-changup/changup-frontend">Frontend</a>
+&nbsp; | &nbsp;
+<a href="https://github.com/Chosun-univ-changup/changup-backend">Backend</a>
+
 
 </div>
 
@@ -56,8 +57,9 @@
 
 | 레포 | 설명 |
 |---|---|
-| [changup-backend](https://github.com/Chosun-univ-changup/changup-backend) | 데이터 수집·융합, 지표 분석, AI 추천, 인증·저장 (FastAPI + Spring Boot) |
 | [changup-frontend](https://github.com/Chosun-univ-changup/changup-frontend) | 웹 클라이언트 — 입력 → 진단 → 전략 → Q&A (React) |
+| [changup-backend](https://github.com/Chosun-univ-changup/changup-backend) | 데이터 수집·융합, 지표 분석, AI 추천, 인증·저장 (FastAPI + Spring Boot) |
+
 
 ---
 
