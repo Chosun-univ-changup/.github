@@ -111,7 +111,7 @@
 
 ## 🧑‍💻 팀
 
-<table align="center">
+<table>
   <thead>
     <tr>
       <th>이름</th>
